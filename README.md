@@ -4,11 +4,11 @@ Pytorch-Lightning MNIST data classification train and inference with CNN
 
 ## Pytorch-Lightning reposirory fork
 
-[forked reposiroty](https://github.com/halucinor/lightning/tree/master)
+### [forked reposiroty](https://github.com/halucinor/lightning/tree/master)
 
 ## Model
 
-[source](mnist_cnn.ipynb)
+### [source](mnist_cnn.ipynb)
 
 ```python
 class CnnClassifier(LightningModule):
@@ -93,8 +93,7 @@ class CnnClassifier(LightningModule):
 
 |-| loss | acc|
 |---|---|---|
-|Test  | **0.0231** | **0.9927** |
+|Validatiaon|**0.0343**|**0.9903**|
+|Test  | **0.0269** | **0.9923** |
 
-
-
-![image](https://user-images.githubusercontent.com/10546369/174425313-f015c041-5b6f-4cc2-bfc7-0dfbeb539b84.png)
+![image](https://user-images.githubusercontent.com/10546369/174806921-2c7562a2-e4f2-4ee3-9f8c-8ffdc397bc17.png)
