@@ -87,4 +87,10 @@ class CnnClassifier(LightningModule):
 
 ## Result
 
+|-| loss | acc|
+|---|---|---|
+|Test  | **0.0231** | **0.9927** |
+
+
+
 ![image](https://user-images.githubusercontent.com/10546369/174425313-f015c041-5b6f-4cc2-bfc7-0dfbeb539b84.png)
