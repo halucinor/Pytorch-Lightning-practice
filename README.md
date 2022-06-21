@@ -91,7 +91,7 @@ class CnnClassifier(LightningModule):
 
 ## Result
 
-|-| loss | acc|
+|Metric| loss | acc|
 |---|---|---|
 |Validatiaon|**0.0343**|**0.9903**|
 |Test  | **0.0269** | **0.9923** |
