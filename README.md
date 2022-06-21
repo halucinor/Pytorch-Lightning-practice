@@ -2,6 +2,10 @@
 
 Pytorch-Lightning MNIST data classification train and inference with CNN
 
+## Pytorch-Lightning reposirory fork
+
+[forked reposiroty](https://github.com/halucinor/lightning/tree/master)
+
 ## Model
 
 [source](mnist_cnn.ipynb)
